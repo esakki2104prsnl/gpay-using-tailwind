@@ -14,9 +14,6 @@ Welcome to the Google Pay UI Clone project! This open-source project aims to rec
 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ### Prerequisites
