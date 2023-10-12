@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 - [Your development environment requirements (e.g., Node.js)]
 
 ## Demo
- 🔗 [Repo Link](#https://github.com/esakki2104prsnl/gpay-using-tailwind) 
+ [Repo Link](#https://github.com/esakki2104prsnl/gpay-using-tailwind) 
 
  🔗 [Live Link](#https://esakki2104prsnl.github.io/gpay-using-tailwind/) 
 
